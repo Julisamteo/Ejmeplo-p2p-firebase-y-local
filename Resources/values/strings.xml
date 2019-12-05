@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Uber_Rider</string>
+  <string name="action_settings">Settings</string>
+  <string name="click_here">Not Registered, Click to Register</string>
+  <string name="click_login">Registered already, Click to Login</string>
+  <string name="mapKey">AIzaSyDaxIds43sda34AzLMEB6-m5fXQLVbM-UU</string>
+                          
+</resources>
